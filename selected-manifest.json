@@ -1,0 +1,952 @@
+{
+ "atlantic-bluefin-tuna": {
+  "file": "01_atlantic-bluefin-tuna.jpg",
+  "pick": "c6",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:D%C3%A9coupage_d%27_un_thon_rouge_(2).jpg",
+  "title": "File:Découpage d' un thon rouge (2).jpg"
+ },
+ "yellowfin-tuna": {
+  "file": "01_yellowfin-tuna.jpg",
+  "pick": "r1",
+  "note": "school photo; foreground fish fully visible",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25175).jpg",
+  "title": "File:Banc de thons albacores (Thunnus albacares) (Ifremer 00568-68027 - 25175).jpg"
+ },
+ "skipjack-tuna": {
+  "file": "01_skipjack-tuna.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Skipjack_tuna",
+  "title": "Skipjack tuna",
+  "name": "Skipjack tuna",
+  "sci": "Katsuwonus pelamis"
+ },
+ "atlantic-mackerel": {
+  "file": "01_atlantic-mackerel.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Atlantic_mackerel",
+  "title": "Atlantic mackerel",
+  "name": "Atlantic mackerel",
+  "sci": "Scomber scombrus"
+ },
+ "blue-marlin": {
+  "file": "01_blue-marlin.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:BlueMarlin.JPG",
+  "title": "File:BlueMarlin.JPG",
+  "name": "Blue marlin",
+  "sci": "Makaira nigricans"
+ },
+ "sailfish": {
+  "file": "01_sailfish.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Fishing_at_Los_Suenos_and_Jaco_Beach.jpg",
+  "title": "File:Costa Rica Fishing at Los Suenos and Jaco Beach.jpg",
+  "name": "Sailfish",
+  "sci": "Istiophorus platypterus"
+ },
+ "swordfish": {
+  "file": "01_swordfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Swordfish",
+  "title": "Swordfish",
+  "name": "Swordfish",
+  "sci": "Xiphias gladius"
+ },
+ "great-white-shark": {
+  "file": "01_great-white-shark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Great_white_shark",
+  "title": "Great white shark",
+  "name": "Great white shark",
+  "sci": "Carcharodon carcharias"
+ },
+ "shortfin-mako": {
+  "file": "01_shortfin-mako.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
+  "title": "Shortfin mako shark",
+  "name": "Shortfin mako",
+  "sci": "Isurus oxyrinchus"
+ },
+ "blue-shark": {
+  "file": "01_blue-shark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Blue_shark",
+  "title": "Blue shark",
+  "name": "Blue shark",
+  "sci": "Prionace glauca"
+ },
+ "tiger-shark": {
+  "file": "01_tiger-shark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Tiger_shark",
+  "title": "Tiger shark",
+  "name": "Tiger shark",
+  "sci": "Galeocerdo cuvier"
+ },
+ "scalloped-hammerhead": {
+  "file": "01_scalloped-hammerhead.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Scalloped_hammerhead",
+  "title": "Scalloped hammerhead",
+  "name": "Scalloped hammerhead",
+  "sci": "Sphyrna lewini"
+ },
+ "whale-shark": {
+  "file": "01_whale-shark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Whale_shark",
+  "title": "Whale shark",
+  "name": "Whale shark",
+  "sci": "Rhincodon typus"
+ },
+ "nurse-shark": {
+  "file": "01_nurse-shark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Nurse_shark",
+  "title": "Nurse shark",
+  "name": "Nurse shark",
+  "sci": "Ginglymostoma cirratum"
+ },
+ "greenland-shark": {
+  "file": "01_greenland-shark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Greenland_shark",
+  "title": "Greenland shark",
+  "name": "Greenland shark",
+  "sci": "Somniosus microcephalus"
+ },
+ "reef-manta-ray": {
+  "file": "01_reef-manta-ray.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Reef_manta_ray",
+  "title": "Reef manta ray",
+  "name": "Reef manta ray",
+  "sci": "Mobula alfredi"
+ },
+ "southern-stingray": {
+  "file": "01_southern-stingray.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Southern_stingray",
+  "title": "Southern stingray",
+  "name": "Southern stingray",
+  "sci": "Hypanus americanus"
+ },
+ "thornback-skate": {
+  "file": "01_thornback-skate.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Thornback_ray",
+  "title": "Thornback ray",
+  "name": "Thornback skate",
+  "sci": "Raja clavata"
+ },
+ "pacific-angelshark": {
+  "file": "01_pacific-angelshark.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Pacific_angelshark",
+  "title": "Pacific angelshark",
+  "name": "Pacific angelshark",
+  "sci": "Squatina californica"
+ },
+ "smalltooth-sawfish": {
+  "file": "01_smalltooth-sawfish.jpg",
+  "pick": "c6",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Pristis_pectinata_SI2.jpg",
+  "title": "File:Pristis pectinata SI2.jpg",
+  "name": "Smalltooth sawfish",
+  "sci": "Pristis pectinata"
+ },
+ "spotted-ratfish": {
+  "file": "01_spotted-ratfish.jpg",
+  "pick": "c8",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Hydrolagus_colliei_03.jpg",
+  "title": "File:Hydrolagus colliei 03.jpg",
+  "name": "Spotted ratfish",
+  "sci": "Hydrolagus colliei"
+ },
+ "beluga-sturgeon": {
+  "file": "01_beluga-sturgeon.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Beluga_(sturgeon)",
+  "title": "Beluga (sturgeon)",
+  "name": "Beluga sturgeon",
+  "sci": "Huso huso"
+ },
+ "american-paddlefish": {
+  "file": "01_american-paddlefish.jpg",
+  "pick": "c5",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Juvenile_Polyodon_spathula_Gavins_Point.jpg",
+  "title": "File:Juvenile Polyodon spathula Gavins Point.jpg",
+  "name": "American paddlefish",
+  "sci": "Polyodon spathula"
+ },
+ "alligator-gar": {
+  "file": "01_alligator-gar.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Alligator_gar",
+  "title": "Alligator gar",
+  "name": "Alligator gar",
+  "sci": "Atractosteus spatula"
+ },
+ "bowfin": {
+  "file": "01_bowfin.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Bowfin",
+  "title": "Bowfin",
+  "name": "Bowfin",
+  "sci": "Amia calva"
+ },
+ "atlantic-tarpon": {
+  "file": "01_atlantic-tarpon.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Atlantic_tarpon",
+  "title": "Atlantic tarpon",
+  "name": "Atlantic tarpon",
+  "sci": "Megalops atlanticus"
+ },
+ "bonefish": {
+  "file": "01_bonefish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Bonefish",
+  "title": "Bonefish",
+  "name": "Bonefish",
+  "sci": "Albula vulpes"
+ },
+ "giant-moray": {
+  "file": "01_giant-moray.jpg",
+  "pick": "c4",
+  "note": "morays hide their tails; most of the body out and visible",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Gymnothorax_javanicus_412495905.jpg",
+  "title": "File:Gymnothorax javanicus 412495905.jpg",
+  "name": "Giant moray",
+  "sci": "Gymnothorax javanicus"
+ },
+ "green-moray": {
+  "file": "01_green-moray.jpg",
+  "pick": "c8",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Green_moray_(Gymnothorax_funebris)_3.JPG",
+  "title": "File:Green moray (Gymnothorax funebris) 3.JPG",
+  "name": "Green moray",
+  "sci": "Gymnothorax funebris"
+ },
+ "european-eel": {
+  "file": "01_european-eel.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/European_eel",
+  "title": "European eel",
+  "name": "European eel",
+  "sci": "Anguilla anguilla"
+ },
+ "pelican-eel": {
+  "file": "01_pelican-eel.jpg",
+  "pick": "c3",
+  "note": "preserved specimen photo",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Eurypharynx2.jpg",
+  "title": "File:Eurypharynx2.jpg",
+  "name": "Pelican eel",
+  "sci": "Eurypharynx pelecanoides"
+ },
+ "atlantic-herring": {
+  "file": "01_atlantic-herring.jpg",
+  "pick": "c5",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Herringadultkils2.jpg",
+  "title": "File:Herringadultkils2.jpg",
+  "name": "Atlantic herring",
+  "sci": "Clupea harengus"
+ },
+ "pacific-sardine": {
+  "file": "01_pacific-sardine.jpg",
+  "pick": "c1",
+  "note": "school photo; individuals fully visible",
+  "source_page": "https://en.wikipedia.org/wiki/Sardinops",
+  "title": "Sardinops",
+  "name": "Pacific sardine",
+  "sci": "Sardinops sagax"
+ },
+ "rainbow-trout": {
+  "file": "01_rainbow-trout.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Rainbow_trout",
+  "title": "Rainbow trout",
+  "name": "Rainbow trout",
+  "sci": "Oncorhynchus mykiss"
+ },
+ "pacific-herring": {
+  "file": "01_pacific-herring.jpg",
+  "pick": "c7",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Clupea_pallasii_by_OpenCage.jpg",
+  "title": "File:Clupea pallasii by OpenCage.jpg",
+  "name": "Pacific herring",
+  "sci": "Clupea pallasii"
+ },
+ "atlantic-salmon": {
+  "file": "01_atlantic-salmon.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Atlantic_salmon",
+  "title": "Atlantic salmon",
+  "name": "Atlantic salmon",
+  "sci": "Salmo salar"
+ },
+ "common-carp": {
+  "file": "01_common-carp.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Common_carp",
+  "title": "Common carp",
+  "name": "Common carp",
+  "sci": "Cyprinus carpio"
+ },
+ "zebrafish": {
+  "file": "01_zebrafish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Zebrafish",
+  "title": "Zebrafish",
+  "name": "Zebrafish",
+  "sci": "Danio rerio"
+ },
+ "neon-tetra": {
+  "file": "01_neon-tetra.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Neon_tetra",
+  "title": "Neon tetra",
+  "name": "Neon tetra",
+  "sci": "Paracheirodon innesi"
+ },
+ "red-bellied-piranha": {
+  "file": "01_red-bellied-piranha.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Red-bellied_piranha",
+  "title": "Red-bellied piranha",
+  "name": "Red-bellied piranha",
+  "sci": "Pygocentrus nattereri"
+ },
+ "mexican-tetra-cave-form": {
+  "file": "01_mexican-tetra-cave-form.jpg",
+  "pick": "c7",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Astyanax_mexicanus_01.jpg",
+  "title": "File:Astyanax mexicanus 01.jpg",
+  "name": "Mexican tetra (cave form)",
+  "sci": "Astyanax mexicanus"
+ },
+ "channel-catfish": {
+  "file": "01_channel-catfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Channel_catfish",
+  "title": "Channel catfish",
+  "name": "Channel catfish",
+  "sci": "Ictalurus punctatus"
+ },
+ "wels-catfish": {
+  "file": "01_wels-catfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Wels_catfish",
+  "title": "Wels catfish",
+  "name": "Wels catfish",
+  "sci": "Silurus glanis"
+ },
+ "electric-eel": {
+  "file": "01_electric-eel.jpg",
+  "pick": "c6",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Electric_Eel.jpg",
+  "title": "File:Electric Eel.jpg",
+  "name": "Electric eel",
+  "sci": "Electrophorus electricus"
+ },
+ "northern-pike": {
+  "file": "01_northern-pike.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Northern_pike",
+  "title": "Northern pike",
+  "name": "Northern pike",
+  "sci": "Esox lucius"
+ },
+ "great-barracuda": {
+  "file": "01_great-barracuda.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Great_barracuda",
+  "title": "Great barracuda",
+  "name": "Great barracuda",
+  "sci": "Sphyraena barracuda"
+ },
+ "oscar": {
+  "file": "01_oscar.jpg",
+  "pick": "c4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Astronotus_ocellatus_-_Karlsruhe_Zoo_01.jpg",
+  "title": "File:Astronotus ocellatus - Karlsruhe Zoo 01.jpg",
+  "name": "Oscar",
+  "sci": "Astronotus ocellatus"
+ },
+ "largemouth-bass": {
+  "file": "01_largemouth-bass.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Largemouth_bass",
+  "title": "Largemouth bass",
+  "name": "Largemouth bass",
+  "sci": "Micropterus salmoides"
+ },
+ "nassau-grouper": {
+  "file": "01_nassau-grouper.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:3846_aquaimages.jpg",
+  "title": "File:3846 aquaimages.jpg",
+  "name": "Nassau grouper",
+  "sci": "Epinephelus striatus"
+ },
+ "giant-trevally": {
+  "file": "01_giant-trevally.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Giant_trevally",
+  "title": "Giant trevally",
+  "name": "Giant trevally",
+  "sci": "Caranx ignobilis"
+ },
+ "copperband-butterflyfish": {
+  "file": "01_copperband-butterflyfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Copperband_butterflyfish",
+  "title": "Copperband butterflyfish",
+  "name": "Copperband butterflyfish",
+  "sci": "Chelmon rostratus"
+ },
+ "emperor-angelfish": {
+  "file": "01_emperor-angelfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Emperor_angelfish",
+  "title": "Emperor angelfish",
+  "name": "Emperor angelfish",
+  "sci": "Pomacanthus imperator"
+ },
+ "blue-tang": {
+  "file": "01_blue-tang.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Paracanthurus",
+  "title": "Paracanthurus",
+  "name": "Blue tang",
+  "sci": "Paracanthurus hepatus"
+ },
+ "humphead-wrasse": {
+  "file": "01_humphead-wrasse.jpg",
+  "pick": "c2",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Cheilinus_undulatus_1.jpg",
+  "title": "File:Cheilinus undulatus 1.jpg",
+  "name": "Humphead wrasse",
+  "sci": "Cheilinus undulatus"
+ },
+ "bluebarred-parrotfish": {
+  "file": "01_bluebarred-parrotfish.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Perroquet_barbe_bleue_(Scarus_ghobban)_(Ifremer_00762-87435).jpg",
+  "title": "File:Perroquet barbe bleue (Scarus ghobban) (Ifremer 00762-87435).jpg",
+  "name": "Bluebarred parrotfish",
+  "sci": "Scarus ghobban"
+ },
+ "bluestreak-cleaner-wrasse": {
+  "file": "01_bluestreak-cleaner-wrasse.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse",
+  "title": "Bluestreak cleaner wrasse",
+  "name": "Bluestreak cleaner wrasse",
+  "sci": "Labroides dimidiatus"
+ },
+ "ocellaris-clownfish": {
+  "file": "01_ocellaris-clownfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Ocellaris_clownfish",
+  "title": "Ocellaris clownfish",
+  "name": "Ocellaris clownfish",
+  "sci": "Amphiprion ocellaris"
+ },
+ "sergeant-major": {
+  "file": "01_sergeant-major.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Sergeant_major_(fish)",
+  "title": "Sergeant major (fish)",
+  "name": "Sergeant major",
+  "sci": "Abudefduf saxatilis"
+ },
+ "tompot-blenny": {
+  "file": "01_tompot-blenny.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Tompot_blenny",
+  "title": "Tompot blenny",
+  "name": "Tompot blenny",
+  "sci": "Parablennius gattorugine"
+ },
+ "round-goby": {
+  "file": "01_round-goby.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Round_goby",
+  "title": "Round goby",
+  "name": "Round goby",
+  "sci": "Neogobius melanostomus"
+ },
+ "atlantic-mudskipper": {
+  "file": "01_atlantic-mudskipper.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:GambianMudskippers.jpg",
+  "title": "File:GambianMudskippers.jpg",
+  "name": "Atlantic mudskipper",
+  "sci": "Periophthalmus barbarus"
+ },
+ "clown-triggerfish": {
+  "file": "01_clown-triggerfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Clown_triggerfish",
+  "title": "Clown triggerfish",
+  "name": "Clown triggerfish",
+  "sci": "Balistoides conspicillum"
+ },
+ "longhorn-cowfish": {
+  "file": "01_longhorn-cowfish.jpg",
+  "pick": "c4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Lactoria_cornuta.003_-_Aquarium_Finisterrae.JPG",
+  "title": "File:Lactoria cornuta.003 - Aquarium Finisterrae.JPG",
+  "name": "Longhorn cowfish",
+  "sci": "Lactoria cornuta"
+ },
+ "porcupinefish": {
+  "file": "01_porcupinefish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Spot-fin_porcupinefish",
+  "title": "Spot-fin porcupinefish",
+  "name": "Porcupinefish",
+  "sci": "Diodon hystrix"
+ },
+ "ocean-sunfish": {
+  "file": "01_ocean-sunfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Ocean_sunfish",
+  "title": "Ocean sunfish",
+  "name": "Ocean sunfish",
+  "sci": "Mola mola"
+ },
+ "lined-seahorse": {
+  "file": "01_lined-seahorse.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Hippocampus_erectus_301805868.jpg",
+  "title": "File:Hippocampus erectus 301805868.jpg",
+  "name": "Lined seahorse",
+  "sci": "Hippocampus erectus"
+ },
+ "weedy-seadragon": {
+  "file": "01_weedy-seadragon.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Common_seadragon",
+  "title": "Common seadragon",
+  "name": "Weedy seadragon",
+  "sci": "Phyllopteryx taeniolatus"
+ },
+ "bay-pipefish": {
+  "file": "01_bay-pipefish.jpg",
+  "pick": "c2",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Bay_pipefish_(Syngnathus_leptorhynchus)_01.jpg",
+  "title": "File:Bay pipefish (Syngnathus leptorhynchus) 01.jpg",
+  "name": "Bay pipefish",
+  "sci": "Syngnathus leptorhynchus"
+ },
+ "european-plaice": {
+  "file": "01_european-plaice.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/European_plaice",
+  "title": "European plaice",
+  "name": "European plaice",
+  "sci": "Pleuronectes platessa"
+ },
+ "peacock-flounder": {
+  "file": "01_peacock-flounder.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Peacock_flounder",
+  "title": "Peacock flounder",
+  "name": "Peacock flounder",
+  "sci": "Bothus mancus"
+ },
+ "red-lionfish": {
+  "file": "01_red-lionfish.jpg",
+  "pick": "c4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Pazifischer_Rotfeuerfisch_-_Red_lionfish_-_Pterois_volitans.jpg",
+  "title": "File:Pazifischer Rotfeuerfisch - Red lionfish - Pterois volitans.jpg",
+  "name": "Red lionfish",
+  "sci": "Pterois volitans"
+ },
+ "reef-stonefish": {
+  "file": "01_reef-stonefish.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Stone_Fish_at_AQWA_SMC2006.jpg",
+  "title": "File:Stone Fish at AQWA SMC2006.jpg",
+  "name": "Reef stonefish",
+  "sci": "Synanceia verrucosa"
+ },
+ "warty-frogfish": {
+  "file": "01_warty-frogfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Warty_frogfish",
+  "title": "Warty frogfish",
+  "name": "Warty frogfish",
+  "sci": "Antennarius maculatus"
+ },
+ "humpback-anglerfish": {
+  "file": "01_humpback-anglerfish.jpg",
+  "pick": "c7",
+  "note": "preserved specimen photo",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Hal_-_Melanocetus_johnsonii_-_4.jpg",
+  "title": "File:Hal - Melanocetus johnsonii - 4.jpg",
+  "name": "Humpback anglerfish",
+  "sci": "Melanocetus johnsonii"
+ },
+ "blue-lanternfish": {
+  "file": "01_blue-lanternfish.jpg",
+  "pick": "r5",
+  "note": "preserved specimen photo on measuring board",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Electrona_risso_specimen.jpg",
+  "title": "File:Electrona risso specimen.jpg",
+  "name": "Blue lanternfish",
+  "sci": "Tarletonbeania crenularis"
+ },
+ "sloane-s-viperfish": {
+  "file": "01_sloane-s-viperfish.jpg",
+  "pick": "r2",
+  "note": "ILLUSTRATION - no full-body photograph exists in free sources (22 candidates checked, all head/body-part close-ups)",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Chauliodus_sloani_Gervais.jpg",
+  "title": "File:Chauliodus sloani Gervais.jpg",
+  "name": "Sloane's viperfish",
+  "sci": "Chauliodus sloani"
+ },
+ "atlantic-cod": {
+  "file": "01_atlantic-cod.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Atlantic_cod",
+  "title": "Atlantic cod",
+  "name": "Atlantic cod",
+  "sci": "Gadus morhua"
+ },
+ "roundnose-grenadier": {
+  "file": "01_roundnose-grenadier.jpg",
+  "pick": "r8",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Resized_20170831_1050072.jpg",
+  "title": "File:Resized 20170831 1050072.jpg",
+  "name": "Roundnose grenadier",
+  "sci": "Coryphaenoides rupestris"
+ },
+ "west-indian-ocean-coelacanth": {
+  "file": "01_west-indian-ocean-coelacanth.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/West_Indian_Ocean_coelacanth",
+  "title": "West Indian Ocean coelacanth",
+  "name": "West Indian Ocean coelacanth",
+  "sci": "Latimeria chalumnae"
+ },
+ "australian-lungfish": {
+  "file": "01_australian-lungfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Australian_lungfish",
+  "title": "Australian lungfish",
+  "name": "Australian lungfish",
+  "sci": "Neoceratodus forsteri"
+ },
+ "silver-arowana": {
+  "file": "01_silver-arowana.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Silver_arowana",
+  "title": "Silver arowana",
+  "name": "Silver arowana",
+  "sci": "Osteoglossum bicirrhosum"
+ },
+ "arapaima": {
+  "file": "01_arapaima.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Arapaima_gigas",
+  "title": "Arapaima gigas",
+  "name": "Arapaima",
+  "sci": "Arapaima gigas"
+ },
+ "siamese-fighting-fish": {
+  "file": "01_siamese-fighting-fish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Siamese_fighting_fish",
+  "title": "Siamese fighting fish",
+  "name": "Siamese fighting fish",
+  "sci": "Betta splendens"
+ },
+ "pearl-gourami": {
+  "file": "01_pearl-gourami.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Pearl_gourami",
+  "title": "Pearl gourami",
+  "name": "Pearl gourami",
+  "sci": "Trichopodus leerii"
+ },
+ "live-sharksucker": {
+  "file": "01_live-sharksucker.jpg",
+  "pick": "c2",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Echeneis_naucrates.jpg",
+  "title": "File:Echeneis naucrates.jpg",
+  "name": "Live sharksucker",
+  "sci": "Echeneis naucrates"
+ },
+ "tropical-two-wing-flyingfish": {
+  "file": "01_tropical-two-wing-flyingfish.jpg",
+  "pick": "r4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Exocoetus_volitans_403671903.jpg",
+  "title": "File:Exocoetus volitans 403671903.jpg",
+  "name": "Tropical two-wing flyingfish",
+  "sci": "Exocoetus volitans"
+ },
+ "sea-lamprey": {
+  "file": "01_sea-lamprey.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Petromyzon_marinus_111077249.jpg",
+  "title": "File:Petromyzon marinus 111077249.jpg",
+  "name": "Sea lamprey",
+  "sci": "Petromyzon marinus"
+ },
+ "pacific-hagfish": {
+  "file": "01_pacific-hagfish.jpg",
+  "pick": "c3",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Eptatretus_stoutii_1.jpg",
+  "title": "File:Eptatretus stoutii 1.jpg",
+  "name": "Pacific hagfish",
+  "sci": "Eptatretus stoutii"
+ },
+ "goldfish": {
+  "file": "01_goldfish.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Goldfish",
+  "title": "Goldfish",
+  "name": "Goldfish",
+  "sci": "Carassius auratus"
+ },
+ "koi-carp": {
+  "file": "01_koi-carp.jpg",
+  "pick": "c4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Cyprinus_Rubrofuscus.jpg",
+  "title": "File:Cyprinus Rubrofuscus.jpg",
+  "name": "Koi carp",
+  "sci": "Cyprinus rubrofuscus"
+ },
+ "guppy": {
+  "file": "01_guppy.jpg",
+  "pick": "c5",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Guppy_02.jpg",
+  "title": "File:Guppy 02.jpg",
+  "name": "Guppy",
+  "sci": "Poecilia reticulata"
+ },
+ "mahi-mahi": {
+  "file": "01_mahi-mahi.jpg",
+  "pick": "c7",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Dolphinfish_(Coryphaena_hippurus).jpg",
+  "title": "File:Dolphinfish (Coryphaena hippurus).jpg",
+  "name": "Mahi-mahi",
+  "sci": "Coryphaena hippurus"
+ },
+ "sockeye-salmon": {
+  "file": "01_sockeye-salmon.jpg",
+  "pick": "c7",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Male_Kokanee_Salmon_Strawberry_Reservoir_2020.jpg",
+  "title": "File:Male Kokanee Salmon Strawberry Reservoir 2020.jpg",
+  "name": "Sockeye salmon",
+  "sci": "Oncorhynchus nerka"
+ },
+ "brown-trout": {
+  "file": "01_brown-trout.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Brown_trout",
+  "title": "Brown trout",
+  "name": "Brown trout",
+  "sci": "Salmo trutta"
+ },
+ "yellow-perch": {
+  "file": "01_yellow-perch.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Yellow_perch",
+  "title": "Yellow perch",
+  "name": "Yellow perch",
+  "sci": "Perca flavescens"
+ },
+ "bluegill": {
+  "file": "01_bluegill.jpg",
+  "pick": "c5",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Bluegill_(Lepomis_macrochirus).jpg",
+  "title": "File:Bluegill (Lepomis macrochirus).jpg",
+  "name": "Bluegill",
+  "sci": "Lepomis macrochirus"
+ },
+ "walleye": {
+  "file": "01_walleye.jpg",
+  "pick": "c7",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Sander_vitreus.jpg",
+  "title": "File:Sander vitreus.jpg",
+  "name": "Walleye",
+  "sci": "Sander vitreus"
+ },
+ "atlantic-halibut": {
+  "file": "01_atlantic-halibut.jpg",
+  "pick": "c6",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Atlantic_Halibut_is_one_of_the_largest_flounders_(27798835942).jpg",
+  "title": "File:Atlantic Halibut is one of the largest flounders (27798835942).jpg",
+  "name": "Atlantic halibut",
+  "sci": "Hippoglossus hippoglossus"
+ },
+ "nile-tilapia": {
+  "file": "01_nile-tilapia.jpg",
+  "pick": "c1",
+  "note": "",
+  "source_page": "https://en.wikipedia.org/wiki/Nile_tilapia",
+  "title": "Nile tilapia",
+  "name": "Nile tilapia",
+  "sci": "Oreochromis niloticus"
+ },
+ "freshwater-angelfish": {
+  "file": "01_freshwater-angelfish.jpg",
+  "pick": "c4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Angelfish_2.jpg",
+  "title": "File:Angelfish 2.jpg",
+  "name": "Freshwater angelfish",
+  "sci": "Pterophyllum scalare"
+ },
+ "discus": {
+  "file": "01_discus.jpg",
+  "pick": "c2",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Blue_Discus.jpg",
+  "title": "File:Blue Discus.jpg",
+  "name": "Discus",
+  "sci": "Symphysodon aequifasciatus"
+ },
+ "atlantic-wolffish": {
+  "file": "01_atlantic-wolffish.jpg",
+  "pick": "c7",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Anarhichas_lupus_Brest.jpg",
+  "title": "File:Anarhichas lupus Brest.jpg",
+  "name": "Atlantic wolffish",
+  "sci": "Anarhichas lupus"
+ },
+ "leafy-seadragon": {
+  "file": "01_leafy-seadragon.jpg",
+  "pick": "c4",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Leafy_Sea_Dragon-Phycodurus_eques_(23694746864).jpg",
+  "title": "File:Leafy Sea Dragon-Phycodurus eques (23694746864).jpg",
+  "name": "Leafy seadragon",
+  "sci": "Phycodurus eques"
+ },
+ "giant-oarfish": {
+  "file": "01_giant-oarfish.jpg",
+  "pick": "c6",
+  "note": "",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Ecomare_-_Haringkoning_riemvis_(haringkoning-riemvis-bert-sdw_04).jpg",
+  "title": "File:Ecomare - Haringkoning riemvis (haringkoning-riemvis-bert-sdw 04).jpg",
+  "name": "Giant oarfish",
+  "sci": "Regalecus glesne"
+ },
+ "mariana-snailfish": {
+  "file": "01_mariana-snailfish.jpg",
+  "pick": "r5",
+  "note": "preserved specimen photo",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Psbel_u2_creative_commons_license.jpg",
+  "title": "File:Psbel u2 creative commons license.jpg",
+  "name": "Mariana snailfish",
+  "sci": "Pseudoliparis swirei"
+ },
+ "black-dragonfish": {
+  "file": "01_black-dragonfish.jpg",
+  "pick": "r5",
+  "note": "preserved specimen photo",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Idiacanthus_antrostomus_photograph_body_black_7.jpg",
+  "title": "File:Idiacanthus antrostomus photograph body black 7.jpg",
+  "name": "Black dragonfish",
+  "sci": "Idiacanthus atlanticus"
+ }
+}
